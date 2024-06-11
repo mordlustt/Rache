@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rache", "Rache\Rache.vcxproj", "{37DD1B19-9224-4076-9596-296B0C77253C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Debug|x64.ActiveCfg = Debug|x64
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Debug|x64.Build.0 = Debug|x64
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Debug|x86.ActiveCfg = Debug|Win32
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Debug|x86.Build.0 = Debug|Win32
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Release|x64.ActiveCfg = Release|x64
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Release|x64.Build.0 = Release|x64
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Release|x86.ActiveCfg = Release|Win32
+		{37DD1B19-9224-4076-9596-296B0C77253C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4857DA23-446E-4556-A623-7EBD70C950A9}
+	EndGlobalSection
+EndGlobal
